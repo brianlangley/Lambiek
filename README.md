@@ -1,6 +1,6 @@
-# Comiclopedia Revitalization Project
+# Project Lambiek
 
-### Welcome to the Comiclopedia Project! 
+### Welcome to the Lambiek Project! 
 
 Our mission was to create a new and improved version of the Comiclopedia from Lambiek, focusing on modernisation and innovative features. We embarked on a journey to revitalise the platform by implementing a redesigned website and an optimised the search functionality. With over 10,000 articles to browse through, we aimed to provide users with a seamless and engaging experience. By harnessing the latest advancements in web development, we strived to enrirhc and enhance the exploration of the fascinating world of comics.
 
@@ -28,7 +28,7 @@ The utilisation of these technologies, the project aimed to provide an improved 
 
 ## Installation and Testing Guide
 
-Please follow the instructions below to install and test the Comiclopedia Revitalization Project:
+Please follow the instructions below to install and test the Lambiek Project:
 
 **Note:**
 Before proceeding with the installation, please ensure that you have the necessary SQL data for testing purposes. If the test data SQL import is not yet available, the project may not be fully reproducible.
@@ -51,7 +51,7 @@ To compile the CSS files, you have two options:
 Host the project from your server's document root or a suitable hosting environment. Ensure that your server is properly configured to serve PHP files.
 
 6. **Access the Project:**
-Navigate to the hosted project in your web browser. You should be able to access the Comiclopedia Revitalization Project and start testing its features.
+Navigate to the hosted project in your web browser. You should be able to access the Lambiek Project and start testing its features.
 
 **Important:**
 Please be aware that without the suitable test data SQL import, some features and functionalities may not work as expected during testing.
@@ -74,13 +74,13 @@ Article:
 ## Notice
 Please note that the Lambiek Project is not affiliated with the original website of Lambiek. You can access the original website [here](https://lambiek.net "lambiek.net"), and all rights belong to their respective owners.
 
-As part of our project, we have created a replacement website for lambiek.net called the New Comiclopedia. We invite you to explore the results of our work and experience the enhancements we have implemented. For a limited duration, you can access the New Comiclopedia website [here](https://new.lambiek.net "new.lambiek.net").
+As part of our project, we have created a replacement website for lambiek.net called the new Comiclopedia. We invite you to explore the results of our work and experience the enhancements we have implemented. For a limited duration, you can access the new Comiclopedia website [here](https://new.lambiek.net "new.lambiek.net").
 
-Please keep in mind that the New Comiclopedia is a demonstration of our efforts to revitalise and improve the user experience of the original Comiclopedia. It does not include the complete content or functionality of the original website.
+Please keep in mind that the new Comiclopedia is a demonstration of our efforts to revitalise and improve the user experience of the original Comiclopedia. It does not include the complete content or functionality of the original website.
 
 ### Compatibility
 
-The Comiclopedia Revitalization Project is designed to be compatible with the following software versions:
+The Lambiek Project is designed to be compatible with the following software versions:
 
 - PHP 8 or greater
 - Apache HTTP server
@@ -115,6 +115,6 @@ We would also like to express our gratitude to the open-source community for pro
 
 ### License
 
-The Comiclopedia Revitalization Project is licensed under the MIT License. You are free to use, modify, and distribute this project in accordance with the terms and conditions of the license.
+The Lambiek Project is licensed under the MIT License. You are free to use, modify, and distribute this project in accordance with the terms and conditions of the license.
 
 Please refer to the [LICENSE](LICENSE) file for more information about the rights and restrictions associated with the use of this project.
