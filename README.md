@@ -56,7 +56,7 @@ Navigate to the hosted project in your web browser. You should be able to access
 **Important:**
 Please be aware that without the suitable test data SQL import, some features and functionalities may not work as expected during testing.
 
-### Wireframes
+## Wireframes
 
 Here are a few wireframes of our updated site:
 
@@ -78,7 +78,7 @@ As part of our project, we have created a replacement website for lambiek.net ca
 
 Please keep in mind that the new Comiclopedia is a demonstration of our efforts to revitalise and improve the user experience of the original Comiclopedia. It does not include the complete content or functionality of the original website.
 
-### Compatibility
+## Compatibility
 
 The Lambiek Project is designed to be compatible with the following software versions:
 
@@ -90,7 +90,7 @@ The Lambiek Project is designed to be compatible with the following software ver
 
 Please ensure that your system meets these requirements for optimal performance and compatibility.
 
-### Credits
+## Credits
 
 The Lambiek Project is the result of the collaborative effort of the following individuals from the Bit Academy:
 
@@ -113,7 +113,7 @@ Raymon Roos
 
 We would also like to express our gratitude to the open-source community for providing valuable resources, libraries, and frameworks that contributed to the development of this project.
 
-### License
+## License
 
 The Lambiek Project is licensed under the MIT License. You are free to use, modify, and distribute this project in accordance with the terms and conditions of the license.
 
