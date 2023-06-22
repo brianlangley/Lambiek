@@ -2,7 +2,7 @@
 
 ### Welcome to the Lambiek Project! 
 
-Our mission was to create a new and improved version of the Comiclopedia from Lambiek, focusing on modernisation and innovative features. We embarked on a journey to revitalise the platform by implementing a redesigned website and an optimised the search functionality. With over 10,000 articles to browse through, we aimed to provide users with a seamless and engaging experience. By harnessing the latest advancements in web development, we strived to enrirhc and enhance the exploration of the fascinating world of comics.
+Our mission was to create a new and improved version of the Comiclopedia from Lambiek, focusing on modernisation and innovative features. We embarked on a journey to revitalise the platform by implementing a redesigned website and an optimised the search functionality. With over 10,000 articles to browse through, we aimed to provide users with a seamless and engaging experience. By harnessing the latest advancements in web development, we strived to enrich and enhance the exploration of the fascinating world of comics.
 
 ## Project overview:
 
