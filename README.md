@@ -2,11 +2,11 @@
 
 ### Welcome to the Lambiek Project! 
 
-Our mission was to create a new and improved version of the Comiclopedia from Lambiek, focusing on modernisation and innovative features. We embarked on a journey to revitalise the platform by implementing a redesigned website and an optimised the search functionality. With over 10,000 articles to browse through, we aimed to provide users with a seamless and engaging experience. By harnessing the latest advancements in web development, we strived to enrirhc and enhance the exploration of the fascinating world of comics.
+Our mission was to create a new and improved version of the Comiclopedia from Lambiek, focusing on modernisation and innovative features. We embarked on a journey to revitalise the platform by implementing a redesigned website and an optimised the search functionality. With over 10,000 articles to browse through, we aimed to provide users with a seamless and engaging experience. By harnessing the latest advancements in web development, we strived to enrich and enhance the exploration of the fascinating world of comics.
 
 ## Project overview:
 
-Project Lambiek is a web-based application that leverages modern technologies to enhance the user experience of the existing Comiclopedia platform from Lambiek. The project utilises a stack consisting of PHP, Apache (HTTP server), MariaDB (or similar MySQL server), NodeJS, npm, Tailwind CSS, and tw-elements.
+Project Lambiek is a web-based application that leverages modern technologies to enhance the user experience of the existing Comiclopedia platform from Lambiek. The project utilises a tech stack consisting of PHP, Apache (HTTP server), MariaDB (or similar SQL server), NodeJS, npm, Tailwind CSS, and tw-elements.
 
 Key Dependencies:
 
@@ -73,8 +73,6 @@ Article:
 
 ## Notice
 Please note that the Lambiek Project is not affiliated with the original website of Lambiek. You can access the original website [here](https://lambiek.net "lambiek.net"), and all rights belong to their respective owners.
-
-As part of our project, we have created a replacement website for lambiek.net called the new Comiclopedia. We invite you to explore the results of our work and experience the enhancements we have implemented. For a limited duration, you can access the new Comiclopedia website [here](https://new.lambiek.net "new.lambiek.net").
 
 Please keep in mind that the new Comiclopedia is a demonstration of our efforts to revitalise and improve the user experience of the original Comiclopedia. It does not include the complete content or functionality of the original website.
 
